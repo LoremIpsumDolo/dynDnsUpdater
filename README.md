@@ -6,13 +6,13 @@ script that monitors the network connection and updates the dynDns-ip on change
 ## Features:
 
 ### gui
-![gui](ignore/menu.png)
+![gui](ignore/1.png)
 
 ### background or terminal mode
-![background](ignore/menu2.png)
+![background](ignore/2.png)
 
 ### custom interval IP check
-![interval](ignore/menu3.png)
+![interval](ignore/3.png)
 
 
 ### up/down speedtest +ping
@@ -20,6 +20,6 @@ script that monitors the network connection and updates the dynDns-ip on change
 
 
 ### logs saved as html file
-![speedtest](ignore/6.png)
+![speedtest](ignore/5.png)
 
 ### pushes new ip to dynDns
